@@ -24,6 +24,8 @@ create the local blockchain network on ganache and import the details for the sa
 RPC Server - HTTP://127.0.0.1:8545
 Network Id - 5777
 
+```sh
+
 $truffle compile 
 $ truffle migrate --reset
 
